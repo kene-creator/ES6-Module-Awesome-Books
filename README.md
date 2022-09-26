@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Awesome Books
 
-> Awesome books
+> Low-fidelity library application to save your favourite books
 
 ## Built With
 
